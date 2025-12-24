@@ -15,7 +15,7 @@ The project is split into two specialized modules to maintain professional data 
 
 - **N-Body Gravity:** Unlike simple 2-body models, this sim calculates the gravitational pull from the Sun and all active planets on the spacecraft simultaneously.
     
-- **NASA-Grade Flight Computer:** * **Shooting Method:** The "FIX PATH" feature uses iterative simulation to calculate the necessary $\Delta V$ (velocity change) to intercept Mars.
+- **Flight Computer:** * **Shooting Method:** The "FIX PATH" feature uses iterative simulation to calculate the necessary $\Delta V$ (velocity change) to intercept Mars.
     
     - **B-Plane Targeting:** Calculates a safety offset (6,000 km radius) to ensure the spacecraft achieves a safe flyby altitude rather than a direct impact.
         
